@@ -6,7 +6,7 @@ Full-stack Developer & AI Enthusiast
 
 I'm a full-stack developer with 2+ years of experience and just finished an AI bootcamp.
 
-*   🌍  I'm based in Indonesia
+*   🌍  I'm currently based in Australia
 *   🖥️  See my portfolio at [itsTomLie](http://itstomlie.my.id/)
 *   ✉️  You can contact me at [itstomlie@gmail.com](mailto:itstomlie@gmail.com)
 *   🧠  I'm learning NestJS & React Native (Deep Dive)
